@@ -4,18 +4,9 @@
 >
 > See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BTC or Ethereum (DAI) payment address. We don't accept payments for the program in other currencies at this stage. (e.g. 123mp123...)
-
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
-
-## Project Overview :page_facing_up:
-
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
+* **Project Name:** Nabox Cross-Chain DeFi Wallet for Web 3.0
+* **Team Name:** Nabox.io
+* **Payment Address:** Ethereum (DAI) payment address: 0x9876abc7fd0e6ae6d36bee8cf04cb648978b16a1
 
 ### Overview
 
@@ -53,19 +44,14 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-* Name of team leader
+* Name of team leader: Ang Kang Wei
 * Names of team members 
 
 ### Contact
 
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
-
-### Legal Structure
-
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Contact Name:** Ang Kang Wei
+* **Contact Email:** kangwei@nabox.io
+* **Website:** https://nabox.io
 
 ### Team's experience
 
@@ -75,13 +61,12 @@ If anyone on your team has applied for a grant at the Web3 Foundation previously
 
 ### Team Code Repos
 
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
+* https://github.com/naboxwallet/nabox-chrome-plugin
 
 ### Team LinkedIn Profiles
 
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+* https://sg.linkedin.com/in/angkangwei
+
 
 ## Development Status :open_book:
 
